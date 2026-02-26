@@ -48,5 +48,3 @@ Loss: Binary Crossentropy
 
 Violence (0.87)   red text
 Non-Violence (0.12)   green text
-
-# video_understanding
